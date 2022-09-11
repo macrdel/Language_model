@@ -24,11 +24,11 @@ Options:
   
 ### Data
 
-  - train.txt (train file)
-  - test.txt (test file)
-  - new.txt (generated file)
+  - `train.txt` (train data)
+  - `test.txt` (test data)
+  - `new.txt` (generated data)
   
 ### Model
-  - trained_model.pkl (saved after training)
+  - `trained_model.pkl` (saved after training)
   
 
